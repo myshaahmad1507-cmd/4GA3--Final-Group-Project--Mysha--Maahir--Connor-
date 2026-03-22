@@ -4,6 +4,7 @@ library(sf)
 library(dplyr)
 library(ggplot2)
 library(spdep)
+library(spatialreg)
 
 # Clear workspace
 rm(list = ls())
